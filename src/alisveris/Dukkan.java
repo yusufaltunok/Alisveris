@@ -60,6 +60,7 @@ public class Dukkan {
         System.out.println(sepet.get(0).getUrunIsim());
 
     }
+    // Github'da eklendi.
 
 
 
