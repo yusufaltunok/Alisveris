@@ -61,6 +61,7 @@ public class Dukkan {
 
     }
     // Github'da eklendi.
+    intelije geldi mi
 
 
 
